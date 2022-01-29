@@ -25,8 +25,7 @@ Figure 1 shows the distribution of spreads for UDBQBs. When the spread is less t
 I removed a week 7 game between the dolphins and the bills where the dolphins were a whopping 17 point underdog for legibility. At the time (according to the metrics I used, please don’t kill me Bills Mafia) Ryan Fitzpatrick was the “better” QB than Josh Allen. They lost the game, but I think we all know Fitzmagic covered, “only” losing by 10 (31-21). It's crazy to think that Just three years later, Fitzpatrick would be sitting in the buffalo stands in 9 degree weather, shirtless, watching Allen put on the greatest QB performance ever against the Patriots in week 1 of the playoffs. 
 
 ![Distribution_spread](https://github.com/acoco10/NFL_betting_EDA/blob/main/graphs/Dist_allQB.png)
-Figure 2 shows the distribution of spreads and whether the better QB covered in all the games in my sample. The better QB covered 52% of the time in all games, more than a coin flip but significantly less than the 65% of the time they covered as an underdog. When the spread lands on 3, the better QB covers 60% of the time. There were about 20 of these games in the previous graph and 70 here, so 50 of those 70 are the favored, better QB covering when the spread is 3. 
-
+Figure 2 shows the distribution of spreads and whether the better QB covered in all the games in my sample. The better QB covered 52% of the time in all games, more than a coin flip but significantly less than the 65% of the time they covered as an underdog. When the spread lands on 3, the better QB covers 60% of the time. 
 
 ## Limitations 
 
